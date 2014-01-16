@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=universe
+comment0.target=LifeContainer(Universe)
+comment1.params=universe
+comment1.target=void\ levelFailure(Universe)
+comment2.params=addCount
+comment2.target=void\ updateScore(int)
+numComments=3
