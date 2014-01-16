@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DisplayMessage()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DisplayMessage\r\n
+comment1.params=universe
+comment1.target=void\ levelFailure(Universe)
+comment2.params=addCount
+comment2.target=void\ updateScore(int)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=basename\ suffix\ noOfImages
+comment0.target=AnimatedActor(java.lang.String,\ java.lang.String,\ int)
+comment1.params=basename\ suffix
+comment1.target=AnimatedActor(java.lang.String,\ java.lang.String)
+comment2.params=basename\ suffix\ noOfImages
+comment2.target=void\ changeImage(java.lang.String,\ java.lang.String,\ int)
+comment3.params=basename\ suffix
+comment3.target=void\ changeImage(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
