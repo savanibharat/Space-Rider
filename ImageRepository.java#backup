@@ -1,0 +1,36 @@
+/*import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo
+
+public class ImageRepository implements Container {
+   public int images[] = {0,1,2,3,4,5};
+
+   @Override
+   public Iterator getIterator() {
+      return new ImageIterator();
+   }
+
+   private class ImageIterator implements Iterator {
+
+      int index;
+
+      @Override
+      public boolean hasNext() {
+         if(index < images.length){
+            return true;
+         }
+         return false;
+      }
+
+      @Override
+      public int next() {
+         if(this.hasNext()){
+            return images[index++];
+         }
+         return 0;
+      }     
+      
+      @Override
+      public int getindex() {
+          return index;
+      }
+    }
+}*/
